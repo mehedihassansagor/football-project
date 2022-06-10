@@ -1,0 +1,13 @@
+.head-color{
+    background: red;
+}
+
+.next-button-style{
+    margin-top:80vh;
+    color:white;
+    margin-left:75%;
+    background-color:red;
+    margin-right: 4%;
+    border: 0.2px solid gray;
+    
+}

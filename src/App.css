@@ -1,0 +1,12 @@
+.link {
+  text-decoration: none;
+  color: #000;
+  font-size: 22px;
+  font-weight: 700;
+  margin: 0 20px;
+}
+
+.link:hover {
+  cursor: pointer;
+  color: #000;
+}

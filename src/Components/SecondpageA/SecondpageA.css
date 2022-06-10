@@ -1,0 +1,22 @@
+.button-style button {
+  background-color: red;
+  margin-left: 1px;
+  padding: 0 40px;
+  color: white;
+  border: 0.2px solid gray;
+}
+
+.button-style {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 20%;
+  margin-right: 25px;
+}
+
+.bty-style {
+  background-color: red;
+  margin-left: 1px;
+  padding: 0 40px;
+  color: white;
+  border: 0.2px solid gray;
+}
